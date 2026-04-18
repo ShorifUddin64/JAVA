@@ -5,5 +5,6 @@ public static void main(String[]args){
  arr[1]=5;
  arr[2]=4;
 for (int i=0;i<5;i++){
+    System.our.println("Shorif Uddin");
 System.out.println(arr[i]);}
-}}
+}
